@@ -1,100 +1,101 @@
-№,City/ Town,Status,Population,County,Ref
-1., Nairobi,Capital,"4,397,073", Nairobi,[2]
-2., Mombasa,City,"1,208,333", Mombasa,[3]
-3.,Nakuru,City,"570,674",Nakuru,[3]
-4.,Ruiru,Municipality (Ruiru + Githurai),"490,120",Kiambu,[3]
-5.,Eldoret,Municipality,"475,716",Uasin Gishu,[3]
-6.,Kisumu,City,"397,957",Kisumu,[3]
-7.,Kikuyu,Municipality,"323,881",Kiambu,[3]
-8.,Ngong,Municipality (Ngong + O/Rongai),"279,757",Kajiado,[3]
-9.,Mavoko,Municipality (Mlolongo + Athi River + Syokimau + Katani + Githunguri),"258,498",Machakos,[4]
-10.,Thika,Municipality,"251,407",Kiambu/Murang'a,[3]
-11.,Naivasha,Municipality,"198,444",Nakuru,[3]
-12.,Karuri,Municipality (Ruaka + Ndenderu) ,"194,342",Kiambu,[3]
-13.,Juja,Municipality,"156,041",Kiambu,[4]
-14.,Kitengela,Municipality (Kitengela + Kisaju),"154,643",Kajiado,[4]
-15.,Kiambu,Municipality,"155,896",Kiambu,[4]
-16.,Malindi,Municipality,"119,859",Kilifi,[4]
-17.,Mandera,Municipality,"114,718",Mandera,[4]
-18.,Kisii,Municipality,"112,417",Kisii/Nyamira,[4]
-19.,Kakamega,Municipality,"107,227",Kakamega,[4]
-20.,Mtwapa,Municipality,"90,677",Kilifi,[4]
-21.,Wajir,Municipality,"90,116",Wajir,[4]
-22.,Lodwar,Municipality,"82,970",Turkana,[4]
-23.,Limuru,Municipality,"81,316",Kiambu,[4]
-24.,Meru,Municipality,"80,191",Meru,[4]
-25.,Nyeri,Municipality,"80,081",Nyeri,[4]
-26.,Isiolo,Municipality,"78,650",Isiolo,[4]
-27.,Ukunda,Municipality (Diani Municipality),"77,686",Kwale,[4]
-28.,Kiserian,Town Council,"76,903",Kajiado,[4]
-29.,Kilifi,Municipality,"74,270",Kilifi,[4]
-30.,Nanyuki,Municipality,"72,813",Laikipia/Nyeri,[4]
-31.,Busia,Municipality,"71,886",Busia,[4]
-32.,Migori,Municipality,"71,668",Migori,[4]
-33.,Bungoma,Municipality,"68,031",Bungoma,[4]
-34.,Narok,Municipality,"65,430",Narok,[4]
-35.,Embu,Municipality,"64,979",Embu,[4]
-36.,Machakos,Municipality,"63,767",Machakos,[4]
-37.,El Wak,Municipality,"60,732",Mandera,[4]
-38.,Gilgil,Municipality,"60,711",Nakuru,[4]
-39.,Kimilili,Municipality,"56,050",Bungoma,[4]
-40.,Kericho,Municipality,"53,804",Kericho,[4]
-41.,Voi,Municipality,"53,353",Taita-Taveta,[4]
-42.,Wanguru,Municipality,"51,722",Kirinyaga,[4]
-43.,Habaswein,Town Council,"49,599",Wajir,[4]
-44.,Turi,Municipality,"48,356",Nakuru,[4]
-45.,Moyale,Other Centre,"47,850",Marsabit,[4]
-46.,Homa Bay,Municipality,"44,949",Homa Bay,[4]
-47.,Kenol,Other Centre,"44,086",Muranga,[4]
-48.,Masalani,Town Council,"43,642",Garissa,[4]
-49.,Muranga,Municipality,"43,314",Muranga,[4]
-50.,Webuye,Municipality,"42,642",Bungoma,[4]
-51.,Njoro,Town Council,"42,173",Nakuru,[4]
-52.,Kapsabet,Municipality,"41,997",Nandi,[4]
-53.,Mumias,Municipal,"41,942",Kakamega,[4]
-54.,Kerugoya-Kutus,Municipality,"39,188",Kirinyaga,[4]
-55.,Nyahururu,Municipality,"37,650",Laikipia/Nyandarua,[4]
-56.,Marsabit,Municipality,"36,289",Marsabit,[4]
-57.,Rhamu,Town Council,"35,644",Mandera,[4]
-58.,Siaya,Municipality,"33,153",Siaya,[4]
-59.,Mariakani,Municipality,"31,715",Kwale/Kilifi,[4]
-60.,Maralal,Municipality,"31,350",Samburu,[4]
-61.,Mairo-Inya,Municipality,"30,527",Nyandarua,[4]
-62.,Kitui,Municipality,"29,062",Kitui,[4]
-63.,Makutano,Town Council,"28,469",West Pokot,[4]
-64.,Elburgon,Town Council,"28,359",Nakuru,[4]
-66.,Lamu,Municipality,"25,385",Lamu,[4]
-67.,Kajiado,Municipality,"24,678",Kajiado,[4]
-68.,Nyamira,Municipality,"24,483",Nyamira,[4]
-69.,Isebania,Town Council,"23,891",Migori,[4]
-70.,Karatina,Municipality,"23,552",Nyeri,[4]
-71.,Kakuma,Town Council,"22,984",Turkana,[4]
-72.,Lafey,Town Council,"22,882",Mandera,[4]
-73.,Bondo,Municipality,"22,712",Siaya,[4]
-74.,Kabarnet,Municipality,"22,474",Baringo,[4]
-75.,Chuka,Municipality,"22,388",Tharaka-Nithi,[4]
-76.,Kehancha,Municipality,"22,194",Migori,[4]
-77.,Maua,Municipality,"22,121",Meru,[4]
-78.,Taveta,Town Council,"22,018",Taita-Taveta,[4]
-79.,Takaba,Town Council,"114,718",Mandera,[4]
-80.,Eldama Ravine,Town Council,"21,385",Baringo,[4]
-81.,Hola,Municipality,"20,912",Tana River,[4]
-82.,Mai Mahiu,Other Centre,"20,823",Nakuru,[3]
-83.,Rongo,Municipality,"20,688",Migori,[4]
-84.,Oyugis,Municipality,"19,947",Homabay,[4]
-85.,Wote,Municipality,"19,725",Makueni,[4]
-86.,Emali,Municipality,"62,404",Makueni/Kajiado,[4]
-87.,Garbatula,Other Centre,"17,443",Isiolo,[4]
-88.,Mbale,Other Centre,"17,404",Vihiga,[4]
-89.,Mwingi,Municipality,"17,025",Kitui,[4]
-90.,Awendo,Municipality,"16,815",Migori,[4]
-91.,Kiminini,Town Council,"16,560",Trans Nzoia,[4]
-92.,Moi's Bridge,Other Centre,"16,355",Uasin Gishu/Trans Nzoia,[4]
-93.,Mazeras,Other Centre,"16,254",Kwale/Kilifi,[4]
-94.,Malaba,Municipality,"15,581",Busia,[4]
-95.,Makindu,Town Council,"15,038",Makueni,[4]
-96.,Banissa,Other Centre,"14,974",Mandera,[4]
-97.,Msambweni,Other Centre,"14,951",Kwale,[4]
-98.,Namanga,Other Centre,"14,922",Kajiado,[4]
-99.,Mbita,Municipality,"14,916",Homa Bay,[4]
-100.,Isinya,Other Centre,"14,429",Kajiado,[4]
+№,City/ Town,Status,Population,County,Ref,date
+1.,Nairobi,Capital,"4,397,073",Nairobi,[2],2023-11-26
+2.,Mombasa,City,"1,208,333",Mombasa,[3],2023-11-26
+3.,Nakuru,City,"570,674",Nakuru,[3],2023-11-26
+4.,Ruiru,Municipality (Ruiru + Githurai),"490,120",Kiambu,[3],2023-11-26
+5.,Eldoret,Municipality,"475,716",Uasin Gishu,[3],2023-11-26
+6.,Kisumu,City,"397,957",Kisumu,[3],2023-11-26
+7.,Kikuyu,Municipality,"323,881",Kiambu,[3],2023-11-26
+8.,Ngong,Municipality (Ngong + O/Rongai),"279,757",Kajiado,[3],2023-11-26
+9.,Mavoko,Municipality (Mlolongo + Athi River + Syokimau + Katani + Githunguri),"258,498",Machakos,[4],2023-11-26
+10.,Thika,Municipality,"251,407",Kiambu/Murang'a,[3],2023-11-26
+11.,Naivasha,Municipality,"198,444",Nakuru,[3],2023-11-26
+12.,Karuri,Municipality (Ruaka + Ndenderu),"194,342",Kiambu,[3],2023-11-26
+13.,Juja,Municipality,"156,041",Kiambu,[4],2023-11-26
+14.,Kitengela,Municipality (Kitengela + Kisaju),"154,643",Kajiado,[4],2023-11-26
+15.,Kiambu,Municipality,"155,896",Kiambu,[4],2023-11-26
+16.,Malindi,Municipality,"119,859",Kilifi,[4],2023-11-26
+17.,Mandera,Municipality,"114,718",Mandera,[4],2023-11-26
+18.,Kisii,Municipality,"112,417",Kisii/Nyamira,[4],2023-11-26
+19.,Kakamega,Municipality,"107,227",Kakamega,[4],2023-11-26
+20.,Mtwapa,Municipality,"90,677",Kilifi,[4],2023-11-26
+21.,Wajir,Municipality,"90,116",Wajir,[4],2023-11-26
+22.,Lodwar,Municipality,"82,970",Turkana,[4],2023-11-26
+23.,Limuru,Municipality,"81,316",Kiambu,[4],2023-11-26
+24.,Meru,Municipality,"80,191",Meru,[4],2023-11-26
+25.,Nyeri,Municipality,"80,081",Nyeri,[4],2023-11-26
+26.,Isiolo,Municipality,"78,650",Isiolo,[4],2023-11-26
+27.,Ukunda,Municipality (Diani Municipality),"77,686",Kwale,[4],2023-11-26
+28.,Kiserian,Town Council,"76,903",Kajiado,[4],2023-11-26
+29.,Kilifi,Municipality,"74,270",Kilifi,[4],2023-11-26
+30.,Nanyuki,Municipality,"72,813",Laikipia/Nyeri,[4],2023-11-26
+31.,Busia,Municipality,"71,886",Busia,[4],2023-11-26
+32.,Migori,Municipality,"71,668",Migori,[4],2023-11-26
+33.,Bungoma,Municipality,"68,031",Bungoma,[4],2023-11-26
+34.,Narok,Municipality,"65,430",Narok,[4],2023-11-26
+35.,Embu,Municipality,"64,979",Embu,[4],2023-11-26
+36.,Machakos,Municipality,"63,767",Machakos,[4],2023-11-26
+37.,El Wak,Municipality,"60,732",Mandera,[4],2023-11-26
+38.,Gilgil,Municipality,"60,711",Nakuru,[4],2023-11-26
+39.,Kimilili,Municipality,"56,050",Bungoma,[4],2023-11-26
+40.,Kericho,Municipality,"53,804",Kericho,[4],2023-11-26
+41.,Voi,Municipality,"53,353",Taita-Taveta,[4],2023-11-26
+42.,Wanguru,Municipality,"51,722",Kirinyaga,[4],2023-11-26
+43.,Habaswein,Town Council,"49,599",Wajir,[4],2023-11-26
+44.,Turi,Municipality,"48,356",Nakuru,[4],2023-11-26
+45.,Moyale,Other Centre,"47,850",Marsabit,[4],2023-11-26
+46.,Homa Bay,Municipality,"44,949",Homa Bay,[4],2023-11-26
+47.,Kenol,Other Centre,"44,086",Muranga,[4],2023-11-26
+48.,Masalani,Town Council,"43,642",Garissa,[4],2023-11-26
+49.,Muranga,Municipality,"43,314",Muranga,[4],2023-11-26
+50.,Webuye,Municipality,"42,642",Bungoma,[4],2023-11-26
+51.,Njoro,Town Council,"42,173",Nakuru,[4],2023-11-26
+52.,Kapsabet,Municipality,"41,997",Nandi,[4],2023-11-26
+53.,Mumias,Municipal,"41,942",Kakamega,[4],2023-11-26
+54.,Kerugoya-Kutus,Municipality,"39,188",Kirinyaga,[4],2023-11-26
+55.,Nyahururu,Municipality,"37,650",Laikipia/Nyandarua,[4],2023-11-26
+56.,Marsabit,Municipality,"36,289",Marsabit,[4],2023-11-26
+57.,Rhamu,Town Council,"35,644",Mandera,[4],2023-11-26
+58.,Siaya,Municipality,"33,153",Siaya,[4],2023-11-26
+59.,Mariakani,Municipality,"31,715",Kwale/Kilifi,[4],2023-11-26
+60.,Maralal,Municipality,"31,350",Samburu,[4],2023-11-26
+61.,Mairo-Inya,Municipality,"30,527",Nyandarua,[4],2023-11-26
+62.,Kitui,Municipality,"29,062",Kitui,[4],2023-11-26
+63.,Makutano,Town Council,"28,469",West Pokot,[4],2023-11-26
+64.,Elburgon,Town Council,"28,359",Nakuru,[4],2023-11-26
+65.,Watamu,Town Council,"27,857",Kilifi,,2023-11-26
+66.,Lamu,Municipality,"25,385",Lamu,[4],2023-11-26
+67.,Kajiado,Municipality,"24,678",Kajiado,[4],2023-11-26
+68.,Nyamira,Municipality,"24,483",Nyamira,[4],2023-11-26
+69.,Isebania,Town Council,"23,891",Migori,[4],2023-11-26
+70.,Karatina,Municipality,"23,552",Nyeri,[4],2023-11-26
+71.,Kakuma,Town Council,"22,984",Turkana,[4],2023-11-26
+72.,Lafey,Town Council,"22,882",Mandera,[4],2023-11-26
+73.,Bondo,Municipality,"22,712",Siaya,[4],2023-11-26
+74.,Kabarnet,Municipality,"22,474",Baringo,[4],2023-11-26
+75.,Chuka,Municipality,"22,388",Tharaka-Nithi,[4],2023-11-26
+76.,Kehancha,Municipality,"22,194",Migori,[4],2023-11-26
+77.,Maua,Municipality,"22,121",Meru,[4],2023-11-26
+78.,Taveta,Town Council,"22,018",Taita-Taveta,[4],2023-11-26
+79.,Takaba,Town Council,"114,718",Mandera,[4],2023-11-26
+80.,Eldama Ravine,Town Council,"21,385",Baringo,[4],2023-11-26
+81.,Hola,Municipality,"20,912",Tana River,[4],2023-11-26
+82.,Mai Mahiu,Other Centre,"20,823",Nakuru,[3],2023-11-26
+83.,Rongo,Municipality,"20,688",Migori,[4],2023-11-26
+84.,Oyugis,Municipality,"19,947",Homabay,[4],2023-11-26
+85.,Wote,Municipality,"19,725",Makueni,[4],2023-11-26
+86.,Emali,Municipality,"62,404",Makueni/Kajiado,[4],2023-11-26
+87.,Garbatula,Other Centre,"17,443",Isiolo,[4],2023-11-26
+88.,Mbale,Other Centre,"17,404",Vihiga,[4],2023-11-26
+89.,Mwingi,Municipality,"17,025",Kitui,[4],2023-11-26
+90.,Awendo,Municipality,"16,815",Migori,[4],2023-11-26
+91.,Kiminini,Town Council,"16,560",Trans Nzoia,[4],2023-11-26
+92.,Moi's Bridge,Other Centre,"16,355",Uasin Gishu/Trans Nzoia,[4],2023-11-26
+93.,Mazeras,Other Centre,"16,254",Kwale/Kilifi,[4],2023-11-26
+94.,Malaba,Municipality,"15,581",Busia,[4],2023-11-26
+95.,Makindu,Town Council,"15,038",Makueni,[4],2023-11-26
+96.,Banissa,Other Centre,"14,974",Mandera,[4],2023-11-26
+97.,Msambweni,Other Centre,"14,951",Kwale,[4],2023-11-26
+98.,Namanga,Other Centre,"14,922",Kajiado,[4],2023-11-26
+99.,Mbita,Municipality,"14,916",Homa Bay,[4],2023-11-26
+100.,Isinya,Other Centre,"14,429",Kajiado,[4],2023-11-26
